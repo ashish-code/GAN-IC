@@ -1,0 +1,8 @@
+Run ../preprocess_celebA.py (specify the path to the celebA dataset in the machine)
+The code should create and save in this "dataset" directory, the following 4 files:
+image_train.npy
+image_test.npy
+attribute_train.npy
+attribute_test.npy
+
+
